@@ -1,0 +1,12 @@
+{
+	"name": "com.mushakushi.datastructures",
+  	"version": "1.0.0",
+  	"displayName": "Data Structures",
+  	"description": "Missing Data Structures in .NET <6",
+ 	"keywords": [ "Data Structures", "Utility" ],
+  	"author": {
+   		"name": "Mushakushi",
+    		"email": "info@mushakushi.com",
+    		"url": "https://www.mushakushi.com"
+  	}
+}
