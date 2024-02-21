@@ -1,6 +1,6 @@
 ## Data Structures
 
-### [MinPriorityQueue](DataStructures/Runtime/MinPriorityQueue.cs)
+### MinPriorityQueue
 
 This is a minimum priority queue. Unity's .NET version predates .NET 6, which introduced `PriorityQueue`.
 
